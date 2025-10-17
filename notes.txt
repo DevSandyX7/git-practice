@@ -1,0 +1,2 @@
+This is my first github practice file.
+Learning file lifecycle in Git.
