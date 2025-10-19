@@ -1,3 +1,3 @@
 This is 1st edit in this summary.txt file of the main branch.
 I have learned till now how to connect a folder to github , how to config git, and how to do add, commit and push till now.
-Learning Git Merges and resolve conflict.(this is the 3rd edit in this file but branch is main). 
+Learning Git Merges.(this is 3rd edit in this file but in feature-2 branch).
